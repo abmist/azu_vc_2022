@@ -1,0 +1,3 @@
+[submodule "subm_vc_2022"]
+	path = subm_vc_2022
+	url = git@github.com:abmist/subm_vc_2022.git
